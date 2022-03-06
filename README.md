@@ -5,7 +5,7 @@
   <img width="900" src="https://github.com/torbrodtkorb/micro-led-tower/blob/master/graphics/micro_led_tower.png">
 </p>
 
-### The scetsh in Fusion 360
+### The sketch in Fusion 360
 <p align="center">
   <img width="900" src="https://github.com/torbrodtkorb/micro-led-tower/blob/master/graphics/mini-led-tower.PNG">
 </p>
